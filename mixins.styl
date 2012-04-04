@@ -1,0 +1,27 @@
+// mixins
+
+// ribbon position
+ribbon-position(pos)
+  $x-offset = -3.7em
+  top 3.2em
+  if (pos == 'top-left')
+    left $x-offset
+    transform rotate(-45deg)
+  else if (pos == 'top-right')
+    right $x-offset
+    transform rotate(45deg)
+
+// generate prefixes
+prefix(prop, val)
+  -webkit-{prop} val
+  -moz-{prop} val
+  {prop} val
+
+box-shadow()
+  prefix('box-shadow', arguments)
+
+transform(val)
+  prefix('transform', val)
+
+user-select(val)
+  prefix('user-select', val)
