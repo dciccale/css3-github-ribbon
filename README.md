@@ -10,6 +10,8 @@ Just link css3-github-ribbon.css on your html document and paste the github link
 <a href="https://github.com/dciccale/css3-github-ribbon" class="github-ribbon">Fork me on GitHub</a>
 ```
 
+[Live demo!](http://dciccale.github.com/css3-github-ribbon/)
+
 ### Stylus
 You will need [Stylus](http://learnboost.github.com/stylus/) for node.js to modify and compile the CSS
 
