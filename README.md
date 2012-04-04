@@ -33,7 +33,7 @@ $ribbon-position 'top-right' // top-left
 
 (The MIT License)
 
-Copyright (c) 2012 [@tdecs](http://twitter/tdecs)
+Copyright (c) 2012 [@tdecs](http://twitter.com/tdecs)
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
