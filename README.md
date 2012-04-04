@@ -1,6 +1,6 @@
 # CSS3 Github ribbon
 
-Use this css3 github ribbon on your projects, it's fully customizable!
+Use this CSS3 github ribbon on your projects, it's fully customizable!
 
 ## Usage
 
