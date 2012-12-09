@@ -12,18 +12,18 @@ Just link css3-github-ribbon.css on your html document and paste the github link
 
 ### [Live demo](http://dciccale.github.com/css3-github-ribbon/)
 
-### Stylus
-You will need [Stylus](http://learnboost.github.com/stylus/) for node.js to modify and compile the CSS
+## Options
+You will need [Stylus](http://learnboost.github.com/stylus/) for node.js to compile the modified `.styl` file
 
 #### Ribbon color
-Change the color by changing the $ribbon-color variable, could be any color
+Change the `$ribbon-color` variable to any valid CSS color.
 
 ```
 $ribbon-color #121621
 ```
 
 #### Ribbon position
-Change the position by changing the $ribbon-position variable
+Change the `$ribbon-position` variable to one of these two values: 'top-right' (default) or 'top-left'.
 
 ```
 $ribbon-position 'top-right' // top-left
