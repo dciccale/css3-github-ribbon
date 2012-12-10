@@ -15,7 +15,7 @@ Just link css3-github-ribbon.css on your html document and paste the github link
 ## Options
 You will need [Stylus](http://learnboost.github.com/stylus/) and [Node.js](http://nodejs.org/) to compile the modified `.styl` file
 
-### Background-color
+### Background color
 Change the `$background-color` variable to any valid CSS color.
 
 ```
