@@ -36,5 +36,14 @@ Change the `$position` variable to one of these two values: 'top-right' (default
 $position 'top-right'
 ```
 
+### Known issues and fixes
+ - Unintended horizontal scrolling can cut the edges of the ribbon
+
+To fix this add the following code to the .styl file
+```
+body
+  overflow-x none
+```
+
 ## License
 See [LICENSE.txt](https://raw.github.com/dciccale/css3-github-ribbon/master/LICENSE.txt)
