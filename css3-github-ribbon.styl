@@ -1,15 +1,15 @@
 @import mixins
 
-//options
-$background-color = #121621
+// options
+$bgcolor = #121621
 $color = rgba(255, 255, 255, 0.9)
-$position = 'top-right'
+$position = 'top-right' // or 'top-left'
 
 // ribbon
 .github-ribbon
-  background-color $background-color
+  background-color $bgcolor
   ribbon-position $position
-  box-shadow 0 0 0px 1px lighten(desaturate($background-color, 20%), 5%) inset, 0 0 2px 1px white inset, 0 0 1em #888
+  box-shadow 0 0 0px 1px lighten(desaturate($bgcolor, 20%), 5%) inset, 0 0 2px 1px white inset, 0 0 1em #888
   color $color
   display block
   padding 0.6em 3.5em
