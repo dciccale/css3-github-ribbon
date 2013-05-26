@@ -16,17 +16,17 @@ Just link `css3-github-ribbon.css` on your html document and paste the github li
 You will need [Stylus](http://learnboost.github.com/stylus/) and [Node.js](http://nodejs.org/) to compile the modified `.styl` file
 
 ### Background color
-Change the `$background-color` variable to any valid CSS color.
+Change the `$bgcolor` variable to any valid CSS color.
 
 ```php
-$background black
+$bgcolor papayaWheep
 ```
 
 #### Text color
 Change the `$color` variable to any valid CSS color.
 
 ```php
-$color white
+$color #222
 ```
 
 #### Position
