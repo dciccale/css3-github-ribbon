@@ -1,0 +1,11 @@
+{
+  "name": "css3-github-ribbon",
+  "version": "0.0.1",
+  "homepage": "http://denis.io/css3-github-ribbon",
+  "authors": ["Denis Ciccale (@tdecs)"],
+  "description": "A CSS3 Github Ribbon for your github-based projects",
+  "main": "css3-github-ribbon.css",
+  "keywords": ["css", "github", "ribbon", "stylus"],
+  "license": "MIT",
+  "ignore": ["**/.*"]
+}
