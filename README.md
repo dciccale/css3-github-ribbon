@@ -7,7 +7,9 @@ Use this CSS3 Github Ribbon on your github-based projects, it's fully customizab
 Just link `css3-github-ribbon.css` on your html document and paste the github link on it:
 
 ```html
-<a href="https://github.com/dciccale/css3-github-ribbon" class="github-ribbon">Fork me on GitHub</a>
+<a href="https://github.com/dciccale/css3-github-ribbon" class="github-ribbon">
+  Fork me on GitHub
+</a>
 ```
 
 ### [Live demo](http://dciccale.github.com/css3-github-ribbon/)
